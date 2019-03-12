@@ -1,2 +1,4 @@
 # website
-Mho Inc. Website build with Bootstrap framework
+Mho Inc. Website
+
+https://mhoinc.github.io/
